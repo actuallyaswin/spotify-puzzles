@@ -1,0 +1,1 @@
+print(int('{0:b}'.format(int(raw_input().strip()))[::-1],2))
